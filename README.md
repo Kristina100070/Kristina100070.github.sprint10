@@ -3,4 +3,4 @@
 
 Proektnay rabota 10
 
-v0.0.3 -m "my 3 version"
+v0.0.4 -m "my 4 version"
